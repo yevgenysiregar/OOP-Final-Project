@@ -14,17 +14,29 @@ After preparation is complete, then application will ask user to input the name 
 
 <h5>Use Case Diagram</h5>
 
+
+
   ![image](https://github.com/yevgenysiregar/OOP-Final-Project/assets/48908985/36cf8f79-4123-43a7-bd87-1fef8c09646d)
+  
+  
 
 <h5>Activity Diagram</h5>
 
+
+
 ![image](https://github.com/yevgenysiregar/OOP-Final-Project/assets/48908985/65dbaf67-f908-4907-bb47-ff3e6544e5c1)
 
+
+
 <h5>Class Diagram</h5>
+
+
 
 <img width="625" alt="Screenshot 2023-06-06 102355" src="https://github.com/yevgenysiregar/OOP-Final-Project/assets/48908985/b2c14220-fc2b-4553-b48b-4a8bf786bf56">
 <img width="670" alt="Screenshot 2023-06-06 102305" src="https://github.com/yevgenysiregar/OOP-Final-Project/assets/48908985/3a5b2370-8388-48ea-868d-6c7eefce1ace">
 <img width="731" alt="Screenshot 2023-06-06 102343" src="https://github.com/yevgenysiregar/OOP-Final-Project/assets/48908985/b9a75a6c-36d6-4337-9287-dff6504d141d">
+
+
 
 
 <ul>Essential Algorithm:
@@ -37,9 +49,15 @@ After preparation is complete, then application will ask user to input the name 
 <li>7.	Interface : this programe have an interface</li>
 </ul>
 
+
+
 <h5>Screenshots and Demo Videos</h5>
 
+
+
 <img width="918" alt="Screenshot 2023-06-18 221159" src="https://github.com/yevgenysiregar/OOP-Final-Project/assets/48908985/655772e1-3dad-40cd-9fa4-072ed1ff9c58">
+
+
 
 
 https://github.com/yevgenysiregar/OOP-Final-Project/assets/48908985/c437fdcc-3d02-459a-961c-043fe097097e
