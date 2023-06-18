@@ -27,15 +27,15 @@ After preparation is complete, then application will ask user to input the name 
 <img width="731" alt="Screenshot 2023-06-06 102343" src="https://github.com/yevgenysiregar/OOP-Final-Project/assets/48908985/b9a75a6c-36d6-4337-9287-dff6504d141d">
 
 
-<p>Essential Algorithm:
-1.	Looping: this program uses for loop, while loop and forEach
-2.	Control Flow: this program uses nested if else statement
-3.	Dictionary: this program uses dictionary to keep history
-4.	Class: This program uses class to make it easier to implement data
-5.	Function/method: this program uses function/method to make it easier to write a code that are reusable
-6.	Abstract : this program use abstract class and extend the class
-7.	Interface : this programe have an interface
-</p>
+<ul>Essential Algorithm:
+<li>1.	Looping: this program uses for loop, while loop and forEach</li>
+<li>2.	Control Flow: this program uses nested if else statement</li>
+<li>3.	Dictionary: this program uses dictionary to keep history</li>
+<li>4.	Class: This program uses class to make it easier to implement data</li>
+<li>5.	Function/method: this program uses function/method to make it easier to write a code that are reusable</li>
+<li>6.	Abstract : this program use abstract class and extend the class</li>
+<li>7.	Interface : this programe have an interface</li>
+</ul>
 
 <h5>Screenshots and Demo Videos</h5>
 
